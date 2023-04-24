@@ -1,0 +1,287 @@
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+
+.pro{
+    margin-left: 30px;
+    margin-right: 20px;
+
+
+}
+.navdemo{
+    margin-right: 130px;
+    
+}
+
+ .demo{
+    margin-left: 40px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+
+ } 
+ .imgdiv{
+    /* margin-right: 100px; */
+ }
+ 
+ 
+ .btn{
+    margin-right: 70px;
+    margin-left: 20px;
+    padding: 3px;
+    
+}
+.gf{
+    height: 30px;
+    width: 130px;
+    background-color:green;
+    border-radius: 8px;
+    color: white;
+    font-size: 18px;
+    box-shadow: 0px 0px 2px 2px  rgb(165, 206, 165);
+    border: none;
+
+}
+.maindiv{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    /* margin-left: 100px; */
+}
+.subdiv{
+    font-size: 40px;
+    
+}
+.input{
+    height: 22px;
+    width: 350px;
+    border-radius: 6px;
+    border-color:1px 1px 2px 2px rgb(230, 229, 229);
+    padding: 10px;
+    
+}
+.forgot{
+    margin-left: 120px;
+}
+.bt{
+    height: 30px;
+    width: 350px;
+    font-size: 15px;
+    color: white;
+    background-color: green;
+    border-radius: 6px;
+    border: none;
+    box-shadow: 0px 0px 2px 2px rgb(165, 219, 165);
+    padding: 10px;
+}
+.btn1{
+    background: transparent;
+    width: 140px;
+    height: 30px;
+    font-size: 17px;
+    border-radius: 6px;
+    border:2px solid rgb(90, 145, 90);
+    display: flex;
+    justify-content: space-evenly ;
+    margin-right: 100px;
+}
+.btn1:hover{
+    background-color: rgb(160, 221, 160);
+    cursor: pointer;
+}
+
+.bf{
+    display: flex;
+    justify-content: space-around;
+}
+
+.one{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+    
+    
+}
+
+.sub_div{
+    background-color: white;
+    height: 170px;
+    width: 270px;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 4px 4px rgb(209, 209, 209);
+    border-radius: 15px;
+    border-bottom: 0;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+    
+}
+.sub-div1{
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 20px;
+    
+}
+.sub_div1{
+    background-color: white;
+    height: 170px;
+    width: 270px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 230px;
+    box-shadow: 0px 0px 4px 4px rgb(209, 209, 209);
+    border-radius: 15px;
+    border-bottom: 0;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:17px ;
+    
+}
+.sub_div2{
+    margin-right: 230px;
+    background-color: white;
+    height: 170px;
+    width: 270px;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 4px 4px rgb(209, 209, 209);
+    border-radius: 15px;
+    border-bottom: 0;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+    
+}
+.aboutus{
+    background-color:rgb(233, 252, 233);
+    height: 700px;
+    width: 100%;
+    margin-top: 100px;
+}
+.mainone{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+    top: 145%;
+    left: 27%;
+    margin-top: 150px;
+}
+.img{
+    position: absolute;
+    top: 185%;
+    left: 14%;
+}
+.imgs{
+    position: absolute;
+    left: 68%;
+    top: 185%;
+}
+.abdiv{
+   background-color: white;
+   height: 400px;
+   width: 650px;
+   box-shadow: 0px 0px 4px 4px rgb(233, 231, 231);
+   border-radius: 15px;
+   text-align: center;
+   padding: 20px;
+}
+
+.para{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.M{
+    margin-top: 40px;
+    display: flex;
+    margin-left: 90px;
+    margin-right: 60px;
+    justify-content: space-around;
+}
+.sM{
+    font-size: 35px;
+    margin-top: 50px;
+    margin-left: 90px;
+
+}
+.sM2{
+    margin-top: 100px;
+    margin-right: 90px;
+    background-color: white;
+    box-shadow: 0px 0px 4px 4px gainsboro;
+    border-radius: 15px;
+    width: 220px;
+    height: 220px;
+    padding: 20px;
+}
+.pa{
+    
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.demomn{
+    background-color: rgb(231, 253, 231);
+    height: 600px;
+    width: 100%;
+    margin-top: 100px;
+}
+
+.demom{
+    margin-top: 80px;
+    padding: 80px; 
+    display: flex;
+    justify-content: space-around;   
+}
+
+.show{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+
+}
+.bts{
+    background-color: green;
+    width: 130px;
+    height: 30px;
+    box-shadow: 0px 0px 3px 3px rgb(160, 240, 160);
+    font-size: 15px;
+    color: white;
+    border-radius: 8px;
+   
+}
+.sd{
+font-size: 20px;
+display: flex;
+justify-content: space-around;
+margin-left: 90px;
+margin-right: 30px;
+padding: 40px;
+
+}
+pq.{
+    list-style-type: none;
+    font-size: 20px;
+}
+.bo{
+    color: green;
+    padding: 50px;
+    margin-left: 150px;
+}
+.break{
+    margin-top: 30px;
+    text-align: center;
+
+}
+
+
+
